@@ -20,6 +20,7 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # Writing the Data Set
+
 #Download and unzip data files for analysis
 #Load labels and features
 #Extract data on mean and standard deviation
