@@ -21,9 +21,14 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 # Writing the Data Set
 
-First, download and unzip data files for analysis. 
+First, download and unzip data files for analysis.
+
 Second, load labels and features.
+
 Third, xtract data on mean and standard deviation.
+
 Fourth, load datasets.
-Fifth, merge datasets and add labels
-Last, factor and Create a second, independent tidy data set
+
+Fifth, merge datasets and add labels.
+
+Last, factor and Create a second, independent tidy data set.
